@@ -56,11 +56,13 @@ Additional Resources
 ====================
 
 I. Accounting
+-------------
 1. Bookkeeping tutorial: http://www.dwmbeancounter.com/BCTutorSite/Courses/ChartAccounts/Tutorial6.html
 2. Accounting for subsidiaries: http://wikihow.com/Account-for-Subsidiaries
 3. Google "accounting general ledger stocks"
 
 II. Technologies
+----------------
 1. Nexus: http://books.sonatype.com/nexus-book/reference
 
 
