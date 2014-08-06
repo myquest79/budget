@@ -13,7 +13,7 @@ Start with a simple general ledger to store transactions in a database. Call the
 
 Phase I
 =======
-1. Get a general ledger up and running.
+1. Get a REST services API for a simple general ledger up and running.
 2. Database has 1 table (general_ledger) with 6 columns (account, date, description, debit, credit, balance). Down the road, there can be a separate table for each account so that it can scale better. Also, may consider looking into a nosql solution such as mongodb.
 3. Record and retrieve entries to and from a general ledger as a proof of concept.
 4. Get account balances
@@ -35,7 +35,7 @@ Technologies
 1. Git
 2. Nexus
 3. Maven (archetypes, plugins, profiles)
-4. JAXRS (jersey, spring)
+4. REST JAXRS (jersey, spring)
 5. Tomcat, Jetty
 6. HQL, JDBC
 7. ActiveMQ
